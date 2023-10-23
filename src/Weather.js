@@ -15,7 +15,11 @@ export default function Weather() {
             />
           </div>
           <div className="col-3">
-            <input type="submit" value="Search" className="btn btn-primary" />
+            <input
+              type="submit"
+              value="Search"
+              className="btn btn-primary w-100"
+            />
           </div>
         </div>
       </form>
@@ -26,7 +30,7 @@ export default function Weather() {
       </ul>
       <div className="row mt-3">
         <div className="col-6">
-          <div className="clearfix">
+          <div className="d-flex">
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
               alt="Mostly cloudy"
