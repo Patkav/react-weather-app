@@ -1,6 +1,14 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
+  background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zX3dhdGVyY29sb3JfaWxsdXN0cmF0aW9uX29mX3JhaW5ib3dfYmFja2dyb3VuZF81ZGNlYTk3Ni1iZTMyLTQyYzQtYWRmMy1iMTM3Zjg3NjUwNTcuanBn.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  width: 50%;
+  padding: 5px;
+  margin: 5px auto;
+  color: white;
 }
 
 .App footer {
